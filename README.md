@@ -1,2 +1,2 @@
-# Repositório para atividades realizadas nos cursos da plataforma DIO
+# Primeiro Repositório para curso de Git-Github DIO
 
